@@ -4,7 +4,7 @@
 /* Mobile Layout: 320px */
 /* Wide Mobile Layout: 480px */
 /* =================================== */
-/*  Basic Style 
+/*  Basic Style
 /* =================================== */
 ::-moz-selection {
   /* Code for Firefox */
@@ -2298,12 +2298,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .banner-area {
-  background: url(../img/header-bg.jpg) center;
   background-size: cover;
 }
 
 .banner-area .overlay-bg {
-  opacity: .95;
+  opacity: .99;
 }
 
 .banner-content {
@@ -3427,11 +3426,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .link-nav {
-  margin-top: 10px;
+  margin-top: 20px;
 }
 
 .about-content {
-  padding: 150px 0px;
+  padding: 80px 0px;
   text-align: center;
 }
 
@@ -3798,7 +3797,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 ################
 */
 .blog-banner-area {
-  background: url(../img/elements/blog/blog-banner.jpg) center;
+  background: url(imagenes\Biodiversidad.jpg) center;
   background-size: cover;
 }
 
